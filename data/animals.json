@@ -128,6 +128,29 @@
         "determined"
       ],
       "id": "12"
+    },
+    {
+      "name": "Mike",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Ted",
+      "species": "Human",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
