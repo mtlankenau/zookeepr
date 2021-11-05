@@ -151,6 +151,25 @@
         "zany"
       ],
       "id": "14"
+    },
+    {
+      "name": "Doug",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Ted",
+      "species": "Bird",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
